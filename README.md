@@ -1,5 +1,5 @@
 # IPL Analytics Dashboard
-
+![Dashboard](ipl-dashboard.png
 This project is a Power BI dashboard analyzing IPL data.
 
 ## Features:
